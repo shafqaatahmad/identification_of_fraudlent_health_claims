@@ -1,5 +1,5 @@
 # identification_of_fraudlent_health_claims
-Identifying fraudulent health claims using Neural Networks, Random Forest, Logistic Regression and Gradient Boost.
+Identifying fraudulent health claims using Neural Networks and clutering.
 
 Increasing healthcare cost has been blocking several people from affording a health insurance (Gunja & Collins). One among the many reasons that attribute to the increase in heatlh care cost is healthcare fraud. Healthcare frauds cause the healthcare cost to increase (Davis).  An investigation done by Medicare Fraud Strike Force in 2012 across 7 cities found false claims amounting to $452 millions (Department ofp; District of Michigan).
 •	Using wrong diagnosis or procedure codes.
